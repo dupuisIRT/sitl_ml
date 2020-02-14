@@ -1,0 +1,102 @@
+=================================================
+Summary of selections:
+=================================================
+              Nsegs,  Nbuffs,   [min],      %
+Category 0        0        0        0     0.0
+Category 1       26      405       67    43.3
+Category 2       51      428       71    45.7
+Category 3        8      103       17    11.0
+Category 4        0        0        0     0.0
+Total            85      936      155   100.0
+ 
+
+=================================================
+List of selections
+=================================================
+START TIME          - END TIME           ,   FOM, ID,  DISCUSSION
+2017-01-27/23:31:23 - 2017-01-27/23:33:53,  75.0, aretino(EVA),  BL crossing with possible jet reversal
+2017-01-27/23:45:13 - 2017-01-27/23:47:43, 185.0, aretino(EVA),  Full MP crossing with jet reversal. Hall electric fields. Possible diffusion region.
+2017-01-27/23:47:43 - 2017-01-27/23:49:53, 175.0, aretino(EVA),  Full MP crossing with jets
+2017-01-27/23:49:53 - 2017-01-27/23:52:13, 175.0, aretino(EVA),  Full MP crossing with B minima on MSH side
+2017-01-27/23:52:13 - 2017-01-27/23:54:23, 175.0, aretino(EVA),  Full MP crossing with jet
+2017-01-28/00:00:33 - 2017-01-28/00:04:23, 175.0, aretino(EVA),  Two consecutive full MP crossings with jets
+2017-01-28/00:09:13 - 2017-01-28/00:11:33, 175.0, aretino(EVA),  Full MP crossing with jet and turbulent MSH side
+2017-01-28/00:11:33 - 2017-01-28/00:15:33, 175.0, aretino(EVA),   Full MP crossing with jet and turbulent MSH side
+2017-01-28/00:17:23 - 2017-01-28/00:21:53, 175.0, aretino(EVA),  Two consecutive quasi-full MP crossings with jets and turbulent MSH with B minima 
+2017-01-28/00:21:53 - 2017-01-28/00:25:43, 175.0, aretino(EVA),  Full MP crossing with jet
+2017-01-28/00:25:43 - 2017-01-28/00:29:33, 185.0, aretino(EVA),  Full MP crossing with jet reversal. Turbulent MSh side with B minimum.
+2017-01-28/00:31:33 - 2017-01-28/00:35:03, 175.0, aretino(EVA),  Two consecutive quasi-full MP crossings with jets. Magnetic null.
+2017-01-28/00:36:33 - 2017-01-28/00:39:53, 185.0, aretino(EVA),  Full MP crossing with sharp jet reversal. Possible diffusion region.
+2017-01-28/00:39:53 - 2017-01-28/00:41:23, 175.0, aretino(EVA),  Full MP crossing with jet. B null.
+2017-01-28/00:41:23 - 2017-01-28/00:43:23, 185.0, aretino(EVA),  Full MP crossing with jet reversal. B null.
+2017-01-28/00:43:53 - 2017-01-28/00:47:03, 175.0, aretino(EVA),  Two consecutive quasi-full MP crossings with jets. B null.
+2017-01-28/00:47:33 - 2017-01-28/00:50:43, 125.0, aretino(EVA),  Partial high-shear MP crossing on MSh side with jets.
+2017-01-28/00:57:53 - 2017-01-28/00:59:23, 125.0, aretino(EVA),  MSH current sheet with jet
+2017-01-28/01:07:33 - 2017-01-28/01:08:33, 125.0, aretino(EVA),  MSH current sheet with jet
+2017-01-28/01:12:23 - 2017-01-28/01:12:53, 125.0, aretino(EVA),  MSH guide-field thin current sheet with jet
+2017-01-28/01:16:53 - 2017-01-28/01:17:23, 145.0, aretino(EVA),  MsH thin current sheet with jet and electron heating
+2017-01-28/01:18:53 - 2017-01-28/01:20:13, 115.0, aretino(EVA),  MSH thin current sheets with possible jets
+2017-01-28/01:21:23 - 2017-01-28/01:22:53,  90.0, aretino(EVA),  MSH thin current sheet
+2017-01-28/01:26:23 - 2017-01-28/01:27:13, 125.0, aretino(EVA),  MSH thin current sheet with jet. Possible small-scale island.
+2017-01-28/01:28:23 - 2017-01-28/01:29:33, 125.0, aretino(EVA),  MSH thin current sheetswith jets embedded in fast flow. B minima. 
+2017-01-28/01:30:43 - 2017-01-28/01:31:43, 125.0, aretino(EVA), MSh thin current sheets with jets embedded in fast flow. B minima. 
+2017-01-28/01:32:13 - 2017-01-28/01:32:43,  75.0, aretino(EVA),  MSH very  thin current sheet
+2017-01-28/01:33:23 - 2017-01-28/01:34:03,  90.0, aretino(EVA),  MSH thin current sheets
+2017-01-28/01:34:13 - 2017-01-28/01:34:43, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/01:36:23 - 2017-01-28/01:37:13, 100.0, aretino(EVA),  MSH bifurcated current sheet 
+2017-01-28/01:37:53 - 2017-01-28/01:38:43, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/01:39:03 - 2017-01-28/01:39:33, 125.0, aretino(EVA),  MSH thin current sheet with jets
+2017-01-28/01:39:43 - 2017-01-28/01:40:53, 125.0, aretino(EVA),  MSH thin current sheets with  jets. Small-scale magnetic islands with jet reversal. 
+2017-01-28/01:40:53 - 2017-01-28/01:42:33, 125.0, aretino(EVA),  MSH thin current sheets with  jets and B minima.
+2017-01-28/05:00:13 - 2017-01-28/05:00:43, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/05:01:03 - 2017-01-28/05:01:43, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/05:04:43 - 2017-01-28/05:05:13, 125.0, aretino(EVA),  MSH thin current sheet with jet
+2017-01-28/05:20:43 - 2017-01-28/05:21:23, 125.0, aretino(EVA),  MSH current sheet with jet
+2017-01-28/05:29:13 - 2017-01-28/05:31:43, 125.0, aretino(EVA),  MSH current sheets with jets and B minima
+2017-01-28/05:31:43 - 2017-01-28/05:34:13, 125.0, aretino(EVA),  MSH current sheets with jets and B minima
+2017-01-28/05:34:13 - 2017-01-28/05:35:13, 125.0, aretino(EVA),  MSH thin current sheets with jets and B minima
+2017-01-28/05:35:43 - 2017-01-28/05:37:03, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/05:57:53 - 2017-01-28/05:58:53, 125.0, aretino(EVA),  MSH thin current sheet with jet
+2017-01-28/06:19:53 - 2017-01-28/06:20:53, 125.0, aretino(EVA),  MSH thin current sheet with jet and electron heating
+2017-01-28/06:34:23 - 2017-01-28/06:35:43, 125.0, aretino(EVA),  MSH thin current sheets and small-scal islands with jets
+2017-01-28/06:39:13 - 2017-01-28/06:40:13, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/06:44:23 - 2017-01-28/06:44:53, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/06:53:33 - 2017-01-28/06:54:23, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/06:56:43 - 2017-01-28/06:57:33, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/06:57:33 - 2017-01-28/06:58:13, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/07:01:13 - 2017-01-28/07:03:43, 125.0, aretino(EVA),  MSH thin current sheets with jets and small-scale magnetic islands
+2017-01-28/07:06:03 - 2017-01-28/07:07:13, 125.0, aretino(EVA),  MSH thin current sheets with jets and small-scale magnetic island.
+2017-01-28/07:09:13 - 2017-01-28/07:10:23, 125.0, aretino(EVA),  MSH thin current sheet with jet
+2017-01-28/07:20:03 - 2017-01-28/07:20:53, 125.0, aretino(EVA),  MSH thin current sheet with jet and B minima close to bow shock
+2017-01-28/07:22:03 - 2017-01-28/07:24:23,  75.0, aretino(EVA),  Two rapid shock crossing including sw/foreshock compressional structures 
+2017-01-28/07:45:03 - 2017-01-28/07:46:43, 125.0, aretino(EVA),  MSH thin current sheets with jets and B minima
+2017-01-28/08:09:43 - 2017-01-28/08:10:43, 125.0, aretino(EVA),  MSH thin current sheets with jets and B minima.
+2017-01-28/08:22:13 - 2017-01-28/08:22:43, 115.0, aretino(EVA),  MSH thin current sheet with possible jet
+2017-01-28/08:27:03 - 2017-01-28/08:29:53, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/08:30:13 - 2017-01-28/08:32:43, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/08:32:43 - 2017-01-28/08:35:13, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/08:35:43 - 2017-01-28/08:38:23, 125.0, aretino(EVA),  MSH current sheet with jet at edge of B compression
+2017-01-28/08:38:23 - 2017-01-28/08:40:23, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/08:56:23 - 2017-01-28/08:58:43, 125.0, aretino(EVA),  MSH thin current sheets with jets and electron heating
+2017-01-28/09:04:53 - 2017-01-28/09:07:03, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/09:07:03 - 2017-01-28/09:09:03, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/09:09:03 - 2017-01-28/09:11:13, 125.0, aretino(EVA),  MSH thin current sheets with jets
+2017-01-28/09:20:33 - 2017-01-28/09:24:03, 125.0, aretino(EVA),  MSH thin current sheet with jets, electron heating and  B null
+2017-01-28/09:42:23 - 2017-01-28/09:42:53, 125.0, aretino(EVA),  MSH thin current sheet with B null
+2017-01-28/09:46:33 - 2017-01-28/09:49:53, 125.0, aretino(EVA),  MSH thin current sheets with jets and B minima
+2017-01-28/09:54:03 - 2017-01-28/09:54:43, 125.0, aretino(EVA),  MSH thin current sheet with jet. Hall By.
+2017-01-28/10:06:13 - 2017-01-28/10:09:03,  75.0, aretino(EVA),  MSH large-amplitude B structure
+2017-01-28/10:20:53 - 2017-01-28/10:23:33, 175.0, aretino(EVA),  Two consecutive full MP crossings
+2017-01-28/10:29:33 - 2017-01-28/10:31:13, 175.0, aretino(EVA),  Full MP crossing
+2017-01-28/10:33:43 - 2017-01-28/10:36:23, 175.0, aretino(EVA),  Full MP crossing with jet
+2017-01-28/10:43:03 - 2017-01-28/10:44:33, 175.0, aretino(EVA),  Full MP crossing 
+2017-01-28/10:49:03 - 2017-01-28/10:51:43, 175.0, aretino(EVA),  Full MP crossing with jet
+2017-01-28/10:55:13 - 2017-01-28/10:57:33, 191.2, aretino(EVA),  Full MP crossing with jet
+2017-01-28/11:02:03 - 2017-01-28/11:03:43, 175.0, aretino(EVA),  Full MP crossing with jet
+2017-01-28/11:03:43 - 2017-01-28/11:05:53, 175.0, aretino(EVA),  Full MP crossing with jet
+2017-01-28/11:05:53 - 2017-01-28/11:07:33, 175.0, aretino(EVA),  Full MP crossing with jet
+2017-01-28/11:15:03 - 2017-01-28/11:18:33,  75.0, aretino(EVA),  BL crossing with jets
+2017-01-28/11:28:43 - 2017-01-28/11:32:03,  75.0, aretino(EVA),  BL crossing with jets
+2017-01-28/11:33:03 - 2017-01-28/11:34:43, 175.0, aretino(EVA),  Full MP crossing with jet
+2017-01-28/11:35:43 - 2017-01-28/11:37:33, 175.0, aretino(EVA),  Full MP crossing with jet
+ 

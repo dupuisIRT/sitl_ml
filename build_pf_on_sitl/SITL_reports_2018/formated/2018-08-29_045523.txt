@@ -1,0 +1,53 @@
+START TIME,END TIME,FOM,ID,DISCUSSION
+2018-08-29/04:58:33,2018-08-29/05:01:13,80.0,ocontel(EVA),Near-Earth off equator DF  B>10nT  (ExB)x 100 km/s  (ExB)z -200km/s  diffB peak 60nA/m2  E waves
+2018-08-29/05:10:03,2018-08-29/05:13:03,80.0,ocontel(EVA),Near-Earth off equator DF B>10nT  diffB peak 70nA/m2  Efield peak 5mV/m 
+2018-08-29/05:24:43,2018-08-29/05:29:03,70.0,ocontel(EVA),Near-Earth off equator DF B>10nT  Vx 100km/s  energetic electrons  E waves
+2018-08-29/05:29:03,2018-08-29/05:31:03,70.0,ocontel(EVA),CS crossing B~5nT  Vx 100km/s  Vy reversal -/+50km/s  diffB peak 40nA/m2  energetic electrons
+2018-08-29/05:31:03,2018-08-29/05:33:03,70.0,ocontel(EVA),CS crossing B~5nT  Vx 100km/s  Vy reversal -/+50km/s  diffB peak 40nA/m2  energetic electrons
+2018-08-29/05:33:03,2018-08-29/05:35:03,70.0,ocontel(EVA),CS crossing B~5nT  Vx 100km/s  Vy reversal -/+50km/s  diffB peak 40nA/m2  energetic electrons
+2018-08-29/05:39:43,2018-08-29/05:42:13,70.0,ocontel(EVA),CS crossing B<5nT  diffB peak 60nA/m2  energetic electrons  E waves 
+2018-08-29/05:59:33,2018-08-29/06:04:33,80.0,ocontel(EVA),CS crossing B<5nT Vx 100km/s  diffB peak 70nA/m2  energetic electrons  E waves 
+2018-08-29/06:19:13,2018-08-29/06:24:13,85.0,ocontel(EVA),CS crossings B<5nT  Vy Vz 200km/s  diffB peak 100nA/m2  energetic electrons  E waves  
+2018-08-29/06:24:13,2018-08-29/06:26:33,75.0,ocontel(EVA),CS crossings B<5nT  Vx 150km/s  Vy -200km/s  diffB peak 50nA/m2  energetic electrons  E waves
+2018-08-29/06:26:33,2018-08-29/06:29:03,75.0,ocontel(EVA),CS crossings B<5nT  Vx 150km/s  Vy -200km/s  diffB peak 50nA/m2  energetic electrons  E waves
+2018-08-29/06:29:03,2018-08-29/06:31:23,75.0,ocontel(EVA),CS crossings B<5nT  Vx 150km/s  Vy -200km/s  diffB peak 50nA/m2  energetic electrons  E waves
+2018-08-29/09:40:13,2018-08-29/09:42:33,65.0,ocontel(EVA),CS edge B>10nT  Vx~Vpara reversal +/-100km/s  diffB peak 70nA/m2  energetic electrons  E waves
+2018-08-29/09:42:33,2018-08-29/09:47:33,60.0,ocontel(EVA),CS edge B>5nT  Vx -100km/s  energetic electrons  E waves 
+2018-08-29/10:09:33,2018-08-29/10:12:33,70.0,ocontel(EVA),CS edge B>8nT  Vx  Vy 100km/s  
+2018-08-29/10:25:03,2018-08-29/10:27:13,70.0,ocontel(EVA),CS edge B>8nT  Vx -100km/s  energetic electrons  E waves 
+2018-08-29/10:27:13,2018-08-29/10:29:33,70.0,ocontel(EVA),CS edge B>8nT  Vx -100km/s  energetic electrons  E waves 
+2018-08-29/10:29:33,2018-08-29/10:31:43,70.0,ocontel(EVA),CS edge B>8nT  Vx -100km/s  energetic electrons  E waves 
+2018-08-29/10:41:43,2018-08-29/10:46:43,75.0,ocontel(EVA),CS edge  B>5nT  Vy 200km/s  energetic electrons  E waves 
+2018-08-29/11:09:03,2018-08-29/11:12:13,65.0,ocontel(EVA),Quiet CS crossing B <5nT  Vx 50km/s   diffB peak 40nA/m2 
+2018-08-29/11:52:23,2018-08-29/11:56:33,70.0,ocontel(EVA),CS crossing B<5nT  Vy 150km/s  energetic electrons  E waves
+2018-08-29/12:03:03,2018-08-29/12:06:03,70.0,ocontel(EVA),CS crossing B<5nT  E&B waves 
+2018-08-29/13:11:13,2018-08-29/13:16:13,70.0,ocontel(EVA),CS crossing B<5nT  energetic electrons  E waves 
+2018-08-29/14:53:23,2018-08-29/14:58:13,70.0,ocontel(EVA),CS crossings B<5nT  DF  Vy 100km/s  energetic electrons 
+2018-08-29/15:54:23,2018-08-29/15:59:23,130.0,ocontel(EVA),CS crossings B<5nT  Bz reversals  Vx reversals  large Vy 200km/s  E&B waves  diffB peak 100nA/m2 
+2018-08-29/16:03:13,2018-08-29/16:07:33,80.0,ocontel(EVA),CS crossing B<5nT  Vx reversal
+2018-08-29/16:07:33,2018-08-29/16:09:53,90.0,ocontel(EVA),CS oscillations  B<5nT  Vy 200km/s  Vx 100 km/s  energetic electrons  E waves 
+2018-08-29/16:09:53,2018-08-29/16:12:13,90.0,ocontel(EVA),CS oscillations  B<5nT  Vy 200km/s  Vx 100 km/s  energetic electrons  E waves 
+2018-08-29/16:12:13,2018-08-29/16:14:33,90.0,ocontel(EVA),CS oscillations  B<5nT  Vy 200km/s  Vx 100 km/s  energetic electrons  E waves 
+2018-08-29/16:14:33,2018-08-29/16:16:53,90.0,ocontel(EVA),CS oscillations  B<5nT  Vy 200km/s  Vx 100 km/s  energetic electrons  E waves 
+2018-08-29/16:29:43,2018-08-29/16:32:13,130.0,ocontel(EVA),Edge (15nT) to central CS B<5nT (local substorm onset)  diffB peak 150nA/m2  Vx reversal  Bz reversal  energetic electrons  E waves
+2018-08-29/16:32:13,2018-08-29/16:34:43,90.0,ocontel(EVA),CS oscillations B<5nT  Vy 200km/s  Vx -200km/s  energetic electrons  E waves 
+2018-08-29/16:34:43,2018-08-29/16:37:13,90.0,ocontel(EVA),CS oscillations B<5nT  Vy 200km/s  Vx -200km/s  energetic electrons  E waves 
+2018-08-29/16:37:13,2018-08-29/16:39:43,90.0,ocontel(EVA),CS oscillations B<5nT  Vy 200km/s  Vx -200km/s  energetic electrons  E waves 
+2018-08-29/16:53:53,2018-08-29/16:55:53,150.0,ocontel(EVA),Edge (15nT) to central CS B<5nT (local substorm onset)  Bz reversal  Vx reversal +/-100km/s  energetic particles  E waves  
+2018-08-29/16:55:53,2018-08-29/16:57:53,150.0,ocontel(EVA),Edge (15nT) to central CS B<5nT (local substorm onset)  Bz reversal  Vx reversal +/-100km/s  energetic particles  E waves  
+2018-08-29/16:57:53,2018-08-29/16:59:53,150.0,ocontel(EVA),Edge (15nT) to central CS B<5nT (local substorm onset)  Bz reversal  Vx reversal +/-100km/s  energetic particles  E waves  
+2018-08-29/16:59:53,2018-08-29/17:04:53,80.0,ocontel(EVA),Tailward flow Vx -100km/s  energetic particles  E waves 
+2018-08-29/17:10:03,2018-08-29/17:12:33,90.0,ocontel(EVA),CS crossings B<5nT  Vy 200km/s  Vx 100km/s  energetic particles  Ewaves 
+2018-08-29/17:12:33,2018-08-29/17:15:03,90.0,ocontel(EVA),CS crossings B<5nT  Vy 200km/s  Vx 100km/s  energetic particles  Ewaves 
+2018-08-29/17:15:03,2018-08-29/17:17:33,90.0,ocontel(EVA),CS crossings B<5nT  Vy 200km/s  Vx 100km/s  energetic particles  Ewaves 
+2018-08-29/17:17:33,2018-08-29/17:20:03,90.0,ocontel(EVA),CS crossings B<5nT  Vy 200km/s  Vx 100km/s  energetic particles  Ewaves 
+2018-08-29/17:42:13,2018-08-29/17:46:13,100.0,ocontel(EVA),CS crossing B<5nT  Vy 200km/s  Vx 100km/s  energetic particles  E waves
+2018-08-29/17:49:33,2018-08-29/17:54:13,80.0,ocontel(EVA),CS crossing B<5nT Vy 100km/s  Vx -100km/s  E waves 
+2018-08-29/19:40:53,2018-08-29/19:43:13,90.0,ocontel(EVA),Edge (10nT) to central CS (<5nT) crossing  Vy 200km/s  Vx -100km/s  energetic particles  E waves 
+2018-08-29/19:43:13,2018-08-29/19:45:23,90.0,ocontel(EVA),Edge (10nT) to central CS (<5nT) crossing  Vy 200km/s  Vx -100km/s  energetic particles  E waves 
+2018-08-29/19:45:23,2018-08-29/19:47:43,90.0,ocontel(EVA),Edge (10nT) to central CS (<5nT) crossing  Vy 200km/s  Vx -100km/s  energetic particles  E waves 
+2018-08-29/19:47:43,2018-08-29/19:50:03,90.0,ocontel(EVA),Edge (10nT) to central CS (<5nT) crossing  Vy 200km/s  Vx -100km/s  energetic particles  E waves 
+2018-08-29/20:24:43,2018-08-29/20:26:53,80.0,ocontel(EVA),CS edge B>5nT  Vy 200km/s  Vx -100km/s 
+2018-08-29/20:26:53,2018-08-29/20:29:13,80.0,ocontel(EVA),CS edge B>5nT  Vy 200km/s  Vx -100km/s 
+2018-08-29/20:29:13,2018-08-29/20:31:23,80.0,ocontel(EVA),CS edge B>5nT  Vy 200km/s  Vx -100km/s 
+2018-08-29/20:31:23,2018-08-29/20:36:23,140.0,ocontel(EVA),CS crossing B<5nT  Bz reversal  Vy Vx 100km/s  energetic electrons  E waves 

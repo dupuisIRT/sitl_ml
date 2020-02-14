@@ -1,0 +1,36 @@
+START TIME,END TIME,FOM,ID,DISCUSSION
+2017-01-20/23:56:23,2017-01-20/23:59:23,115.0,lavanov(EVA),Two partial MP crossings with jet reversal
+2017-01-21/00:17:13,2017-01-21/00:17:53,125.0,lavanov(EVA),Partial MP crossing with jet 
+2017-01-21/00:18:23,2017-01-21/00:22:33,185.0,lavanov(EVA),Two high shear MP crossings with flow reversal and strong magetic field depression
+2017-01-21/00:25:43,2017-01-21/00:28:53,150.0,lavanov(EVA),Parial MP crosssing with strong Vz jet (-300 km/s) 
+2017-01-21/00:31:53,2017-01-21/00:34:53,170.0,lavanov(EVA),Two MP crossings with strong Vz jet(-300 km/s) 
+2017-01-21/00:50:23,2017-01-21/00:52:03,150.0,lavanov(EVA),Two MP crossings 
+2017-01-21/00:52:03,2017-01-21/00:53:43,150.0,lavanov(EVA),Two MP crossings 
+2017-01-21/00:56:13,2017-01-21/00:57:23,145.0,lavanov(EVA),Partial MP with strong jet 
+2017-01-21/01:01:13,2017-01-21/01:03:03,130.0,lavanov(EVA),Partial MP crossings with jet reversal 
+2017-01-21/02:03:53,2017-01-21/02:06:13,125.0,lavanov(EVA),Long partial MP with jet reversal 
+2017-01-21/02:06:13,2017-01-21/02:08:33,125.0,lavanov(EVA),Long partial MP with jet reversal 
+2017-01-21/07:15:13,2017-01-21/07:17:53,125.0,lavanov(EVA),Active CS
+2017-01-21/09:15:53,2017-01-21/09:17:33,120.0,lavanov(EVA),Active MSH CS with significan number density increase 
+2017-01-21/09:20:43,2017-01-21/09:21:53,125.0,lavanov(EVA),MSH reconnection layer 
+2017-01-21/09:27:13,2017-01-21/09:29:13,130.0,lavanov(EVA),Two partial MP crossings with jet reversal 
+2017-01-21/09:29:13,2017-01-21/09:31:53,125.0,lavanov(EVA),Three partial MP crossings 
+2017-01-21/09:43:23,2017-01-21/09:44:53,55.0,lavanov(EVA),Two Bow Shock crossings (pretty close to MP)
+2017-01-21/09:50:13,2017-01-21/09:53:23,175.0,lavanov(EVA),High shear MP crossing with Vz jet 
+2017-01-21/09:53:23,2017-01-21/09:57:13,175.0,lavanov(EVA),High shear MP wth null
+2017-01-21/10:00:53,2017-01-21/10:04:13,175.0,lavanov(EVA),High shear MP crossing
+2017-01-21/10:15:03,2017-01-21/10:17:13,125.0,lavanov(EVA),Three partial MP crossings 
+2017-01-21/10:17:13,2017-01-21/10:19:23,125.0,lavanov(EVA),Three partial MP crossings 
+2017-01-21/10:19:23,2017-01-21/10:21:33,125.0,lavanov(EVA),Three partial MP crossings 
+2017-01-21/10:21:33,2017-01-21/10:23:43,125.0,lavanov(EVA),Three partial MP crossings 
+2017-01-21/10:42:33,2017-01-21/10:44:23,125.0,lavanov(EVA),Low shear MP  
+2017-01-21/10:44:23,2017-01-21/10:46:03,125.0,lavanov(EVA),Low shear MP  
+2017-01-21/10:46:03,2017-01-21/10:47:53,125.0,lavanov(EVA),Low shear MP  
+2017-01-21/10:47:53,2017-01-21/10:51:03,175.0,lavanov(EVA),Complete MP crossing 
+2017-01-21/10:53:03,2017-01-21/10:57:13,175.0,lavanov(EVA),High shear MP crossing
+2017-01-21/11:01:13,2017-01-21/11:05:13,180.0,lavanov(EVA),High shear MP with clean flow reversal 
+2017-01-21/11:11:33,2017-01-21/11:13:03,175.0,lavanov(EVA),MP crossing 
+2017-01-21/11:13:03,2017-01-21/11:14:53,120.0,lavanov(EVA),Two partial MP crossing
+2017-01-21/12:17:33,2017-01-21/12:19:33,120.0,lavanov(EVA),Two partial MP crossings (or long FTE?)
+2017-01-21/12:19:33,2017-01-21/12:21:23,120.0,lavanov(EVA),Two partial MP crossings (or long FTE?)
+2017-01-21/12:21:23,2017-01-21/12:23:23,120.0,lavanov(EVA),Two partial MP crossings (or long FTE?)

@@ -1,0 +1,37 @@
+START TIME,END TIME,FOM,ID,DISCUSSION
+2017-01-17/23:59:33,2017-01-18/00:01:33,125.0,lavanov(EVA),Two partial MP crossings wiyh flow reversal  
+2017-01-18/00:01:33,2017-01-18/00:03:23,125.0,lavanov(EVA),Two partial MP crossing 
+2017-01-18/00:03:23,2017-01-18/00:05:13,180.0,lavanov(EVA),Coplete high shear MP crossing 
+2017-01-18/00:05:13,2017-01-18/00:06:43,180.0,lavanov(EVA),Coplete high shear MP crossing 
+2017-01-18/00:16:03,2017-01-18/00:17:03,120.0,lavanov(EVA),Active magnetosheath CS 
+2017-01-18/00:17:23,2017-01-18/00:18:23,120.0,lavanov(EVA),CS with number density enhancement (210 cc) 
+2017-01-18/00:39:23,2017-01-18/00:40:33,110.0,lavanov(EVA),Active CS with density enehancement
+2017-01-18/00:45:53,2017-01-18/00:47:43,110.0,lavanov(EVA),Turbulent magnetosheath
+2017-01-18/00:47:43,2017-01-18/00:49:43,110.0,lavanov(EVA),Turbulent magnetosheath
+2017-01-18/01:08:33,2017-01-18/01:10:53,125.0,lavanov(EVA),Active magnetosheath CS with 200 cc number density 
+2017-01-18/01:13:03,2017-01-18/01:13:33,110.0,lavanov(EVA),Thin CS 
+2017-01-18/01:15:33,2017-01-18/01:16:33,125.0,lavanov(EVA),Active CS with density enhancement
+2017-01-18/01:18:43,2017-01-18/01:19:43,110.0,lavanov(EVA),Active MS CS 
+2017-01-18/01:38:03,2017-01-18/01:40:23,110.0,lavanov(EVA),Active magnetosheath Nd 200 cc
+2017-01-18/01:43:33,2017-01-18/01:46:13,110.0,lavanov(EVA),Active magnetosheath with very high density variation again ~ 200-210 cc 
+2017-01-18/01:47:53,2017-01-18/01:49:23,125.0,lavanov(EVA),Very active magnetosheath CSwith extereme density increase up to 250 cc
+2017-01-18/01:49:23,2017-01-18/01:50:53,125.0,lavanov(EVA),Very active magnetosheath CSwith extereme density increase up to 250 cc
+2017-01-18/01:57:23,2017-01-18/01:59:23,75.0,lavanov(EVA),Two bow shock crossings 
+2017-01-18/02:05:53,2017-01-18/02:08:03,80.0,lavanov(EVA),Bow shock crossing  
+2017-01-18/02:08:43,2017-01-18/02:09:23,110.0,lavanov(EVA),Solar wind active current sheet (?) 
+2017-01-18/03:30:03,2017-01-18/03:32:33,70.0,lavanov(EVA),Undisturbed solar wind
+2017-01-18/03:32:33,2017-01-18/03:35:03,70.0,lavanov(EVA),Undisturbed solar wind
+2017-01-18/03:52:13,2017-01-18/03:54:23,50.0,lavanov(EVA),Passing foreshock with strong wave activity 
+2017-01-18/03:54:23,2017-01-18/03:56:33,50.0,lavanov(EVA),Passing foreshock with strong wave activity 
+2017-01-18/03:56:33,2017-01-18/03:58:43,50.0,lavanov(EVA),Passing foreshock with strong wave activity 
+2017-01-18/05:38:03,2017-01-18/05:40:03,85.0,lavanov(EVA),Clean quasi-perpendicaular bow shock crossing 
+2017-01-18/05:57:03,2017-01-18/05:58:53,65.0,lavanov(EVA),Bow shock crossing 
+2017-01-18/06:04:23,2017-01-18/06:05:03,75.0,lavanov(EVA),Bow shock crossing 
+2017-01-18/07:08:03,2017-01-18/07:08:43,125.0,lavanov(EVA),Thin CS or could be reconnection exhaust  
+2017-01-18/07:43:23,2017-01-18/07:47:03,85.0,lavanov(EVA),INteresting bow shock crossing with accelerated ions  
+2017-01-18/09:59:23,2017-01-18/10:01:23,50.0,lavanov(EVA),Bow shock crossing 
+2017-01-18/10:01:23,2017-01-18/10:03:33,50.0,lavanov(EVA),Bow shock crossing 
+2017-01-18/10:03:33,2017-01-18/10:05:33,50.0,lavanov(EVA),Bow shock crossing 
+2017-01-18/11:52:53,2017-01-18/11:53:43,145.0,lavanov(EVA),Magnetosheath CS with Vz jet
+2017-01-18/12:06:43,2017-01-18/12:07:53,125.0,lavanov(EVA),Magnetosheath CS 
+2017-01-18/12:15:43,2017-01-18/12:17:43,110.0,lavanov(EVA),Magnetosheath CS with density enhancement 

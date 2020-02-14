@@ -1,0 +1,54 @@
+=================================================
+Summary of selections:
+=================================================
+              Nsegs,  Nbuffs,   [min],      %
+Category 0        0        0        0     0.0
+Category 1        5       73       12    14.2
+Category 2       29      402       67    78.1
+Category 3        3       40        6     7.8
+Category 4        0        0        0     0.0
+Total            37      515       85   100.0
+ 
+
+=================================================
+List of selections
+=================================================
+START TIME          - END TIME           ,   FOM, ID,  DISCUSSION
+2017-01-24/23:46:23 - 2017-01-24/23:48:33, 110.0, aretino(EVA),  Separatrix region with Vy jet reversal
+2017-01-24/23:48:33 - 2017-01-24/23:50:43, 110.0, aretino(EVA),  Separatrix region with Vy jet reversal
+2017-01-24/23:50:43 - 2017-01-24/23:53:03, 110.0, aretino(EVA),  Separatrix region with Vy jet reversal
+2017-01-24/23:53:03 - 2017-01-24/23:55:13, 110.0, aretino(EVA),  Separatrix region with Vy jet reversal
+2017-01-24/23:55:13 - 2017-01-24/23:57:23, 110.0, aretino(EVA),  Separatrix region with Vy jet reversal
+2017-01-24/23:57:23 - 2017-01-25/00:01:43, 125.0, aretino(EVA),  Multiple partial MP crossings with jet
+2017-01-25/00:01:43 - 2017-01-25/00:04:23, 100.0, aretino(EVA),  Separatrix region with Vy jet
+2017-01-25/00:04:23 - 2017-01-25/00:08:13, 145.0, aretino(EVA),  Partial MP crossing with jet reversal
+2017-01-25/00:08:13 - 2017-01-25/00:10:03, 145.0, aretino(EVA),  Partial MP crossing with jet reversal
+2017-01-25/00:10:03 - 2017-01-25/00:11:53, 145.0, aretino(EVA),  Partial MP crossing with jet reversal
+2017-01-25/00:11:53 - 2017-01-25/00:15:23, 145.0, aretino(EVA),  Partial MP crossing with jet reversal
+2017-01-25/00:15:23 - 2017-01-25/00:17:33, 150.0, aretino(EVA),  Full MP crossing with B minima and wave activity 
+2017-01-25/00:17:33 - 2017-01-25/00:19:43, 150.0, aretino(EVA),  Full MP crossing with B minima and wave activity 
+2017-01-25/00:19:43 - 2017-01-25/00:21:53, 150.0, aretino(EVA),  Full MP crossing with B minima and wave activity 
+2017-01-25/00:21:53 - 2017-01-25/00:24:13, 150.0, aretino(EVA),  Full MP crossing with B minima or thin MSH current sheet with jet 
+2017-01-25/00:24:13 - 2017-01-25/00:26:23,  90.0, aretino(EVA), Small-scale MSH magnetic hole
+2017-01-25/00:26:23 - 2017-01-25/00:28:43,  90.0, aretino(EVA), Small-scale MSH magnetic hole
+2017-01-25/00:28:43 - 2017-01-25/00:30:53,  90.0, aretino(EVA), Small-scale MSH magnetic hole
+2017-01-25/00:54:13 - 2017-01-25/00:55:53, 100.0, aretino(EVA),  MSH small-scale FTE
+2017-01-25/00:57:03 - 2017-01-25/00:58:43, 145.0, aretino(EVA),  Thin MSH current sheet with jet
+2017-01-25/02:08:43 - 2017-01-25/02:10:13, 145.0, aretino(EVA), THin MSH current sheet with jet and strong waves
+2017-01-25/02:28:43 - 2017-01-25/02:29:43, 110.0, aretino(EVA),  Thin MSH cirrent sheet with guide field. Possible jet.
+2017-01-25/09:13:43 - 2017-01-25/09:18:23, 100.0, aretino(EVA),  MSH current sheet with strong B wave activity and density minima
+2017-01-25/09:56:13 - 2017-01-25/10:00:23, 125.0, aretino(EVA),  Two consecutive partial MP crossings with positive jet 
+2017-01-25/10:58:03 - 2017-01-25/10:59:03, 125.0, aretino(EVA),  FTE on MSH side 
+2017-01-25/10:59:03 - 2017-01-25/11:02:23, 165.0, aretino(EVA),  Long full MP crossing with jet reversal 
+2017-01-25/11:02:23 - 2017-01-25/11:04:13, 125.0, aretino(EVA), Reconnection exhaust after jet reversal 
+2017-01-25/11:04:13 - 2017-01-25/11:06:13, 110.0, aretino(EVA), Separatrix region
+2017-01-25/11:06:13 - 2017-01-25/11:08:13, 125.0, aretino(EVA),  Partial MP crossing
+2017-01-25/11:08:13 - 2017-01-25/11:11:03, 125.0, aretino(EVA),  Partial MP crossing
+2017-01-25/11:27:33 - 2017-01-25/11:29:33, 125.0, aretino(EVA),  Two consecutive partial MP crossings with jet 
+2017-01-25/11:29:33 - 2017-01-25/11:31:33, 125.0, aretino(EVA),  Two consecutive partial MP crossings with jet 
+2017-01-25/11:31:33 - 2017-01-25/11:33:33, 125.0, aretino(EVA),  Two consecutive partial MP crossings with jet 
+2017-01-25/11:33:33 - 2017-01-25/11:35:23, 125.0, aretino(EVA),  Two consecutive MP crossings with jet
+2017-01-25/11:35:23 - 2017-01-25/11:37:23, 125.0, aretino(EVA),  Two consecutive MP crossings with jet
+2017-01-25/11:37:23 - 2017-01-25/11:39:13, 125.0, aretino(EVA),  Two consecutive partial MP crossings with possible jet reversal
+2017-01-25/11:39:13 - 2017-01-25/11:41:13, 125.0, aretino(EVA),  Two consecutive MP crossings with jet
+ 
