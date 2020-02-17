@@ -17,8 +17,8 @@ import aidapy.aidaxr
 # Define data parameters
 ###############################################################################
 # Time Interval
-start_time = datetime(2018, 1, 1, 0, 0, 0)
-end_time = datetime(2019, 1, 1, 0, 0, 0)
+start_time = datetime(2017, 1, 1, 0, 0, 0)
+end_time = datetime(2018, 1, 1, 0, 0, 0)
 
 # Dictionary of data settings: mission, product, probe, coordinates
 # Currently available products: 'dc_mag', 'i_dens', and 'all'
@@ -39,4 +39,4 @@ print(xr_mms)
 toto = xr_mms['i_bulkv1'].to_dataframe()
 
 
-toto.to_pickle("df_mms1_ibulkv_2018.pkl")
+toto.to_pickle("df_mms1_ibulkv_2017.pkl")
