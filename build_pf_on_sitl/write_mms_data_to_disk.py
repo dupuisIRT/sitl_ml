@@ -17,12 +17,12 @@ import aidapy.aidaxr
 # Define data parameters
 ###############################################################################
 # Time Interval
-start_time = datetime(2017, 1, 1, 0, 0, 0)
-end_time = datetime(2018, 1, 1, 0, 0, 0)
+start_time = datetime(2018, 1, 1, 0, 0, 0)
+end_time = datetime(2019, 1, 1, 0, 0, 0)
 
 # Dictionary of data settings: mission, product, probe, coordinates
 # Currently available products: 'dc_mag', 'i_dens', and 'all'
-settings = {'prod': ['dc_mag'], 'probes': ['1'], 'coords': 'gse', "mode": "low_res"}
+settings = {'prod': ['i_bulkv'], 'probes': ['1'], 'coords': 'gse', "mode": "low_res"}
 
 ###############################################################################
 # Download and load desired data as aidapy timeseries
@@ -36,7 +36,7 @@ print(xr_mms)
 ###############################################################################
 #xr_mms.graphical.peek()
 
-toto = xr_mms['dc_mag1'].to_dataframe()
+toto = xr_mms['i_bulkv1'].to_dataframe()
 
 
-toto.to_pickle("df_mms_fgm.pkl")
+toto.to_pickle("df_mms1_ibulkv_2018.pkl")

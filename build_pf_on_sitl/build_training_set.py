@@ -7,22 +7,15 @@ import matplotlib.pyplot as plt
 from aidapy import load_data
 
 
-sitl_df = pd.read_pickle("df_sitl.pkl")
-
+sitl_df = pd.read_pickle("DATA/df_sitl.pkl")
 blabla = sitl_df.sort_values(by='START TIME')
-
 blabla = blabla.reset_index()
-
 blabla = blabla.drop(columns='index')
 
-
 blabla['time_diff'] = blabla['END TIME'] - blabla['START TIME']
-
 blabla['time_diff'].plot()
-
 print(blabla['time_diff'].describe())
 plt.show()
-
 print(blabla)
 
 # Convert the different string to float values
@@ -36,7 +29,6 @@ sitl_df.loc[sitl_df['LOCATION'] == 'fs', 'location'] = 6
 # Convert all the other string into NaN
 sitl_df['location'] = pd.to_numeric(sitl_df['location'], errors='coerce')
 
-
 # Create data frame 
 start_time = pd.DataFrame() 
 start_time['time'] = sitl_df['START TIME']
@@ -44,7 +36,6 @@ start_time['location'] = sitl_df['location']
 start_time = start_time.set_index(start_time['time']) 
 start_time.drop(['time'], axis=1, inplace=True)
 start_time['origin'] = 'start'
-
 
 # Create data frame 
 end_time = pd.DataFrame()
